@@ -18,3 +18,5 @@ This is a non-recursive version (because of array's resource consumption).
 
 ---
 
+[Donate/Támogatás](https://paypal.me/Tenmag)
+
